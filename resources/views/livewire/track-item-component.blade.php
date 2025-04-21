@@ -63,7 +63,7 @@
 
             // Update the tab title to reflect the item's status once it's details have been fetched
             Livewire.on('trackingDetailsFetched', (tracking_number, item_status) => {
-                let new_title = `📦 ${item_status} - ${tracking_number} | PoŝtaLoĝistiko`;
+                let new_title = `📦 ${item_status} - ${tracking_number} | TrackIndia;
                 document.title = new_title;
             });
         });
