@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: logistic-tracker
+    env: docker
+    buildCommand: docker build -t logistic-tracker .
+    startCommand: docker run -p 80:80 logistic-tracker
