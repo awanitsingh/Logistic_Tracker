@@ -8,18 +8,18 @@
     <title>Track Item | PoŝtaLoĝistiko</title>
 
     {{-- Meta Tags --}}
-    <meta name="title" content="Track Item | PoŝtaLoĝistiko">
+    <meta name="title" content="Track Item | TrackIndia">
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
-    <meta name="author" content="Jacob Prunkl">
+    <meta name="author" content="Awanit Kumar Singh">
     <meta name="theme-color" content="#208336">
 
     {{-- Favicons --}}
-    <link rel="icon" type="image/png" href="{{ asset('img/favicons/32x32.png') }}" sizes="32x32" />
-    <link rel="icon" type="image/png" href="{{ asset('img/favicons/16x16.png') }}" sizes="16x16" />
+    <link rel="icon" type="image/png" href="{{ asset('img/favicons/logo1.png') }}" sizes="32x32" />
+    <link rel="icon" type="image/png" href="{{ asset('img/favicons/logo1.png') }}" sizes="16x16" />
 
     {{-- Bootstrap 5.2.1 CSS --}}
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
@@ -45,7 +45,7 @@
     <nav class="navbar navbar-light bg-light shadow-sm py-3">
         <div class="container px-md-5">
             <a class="navbar-brand" href="#">
-                <img src="{{ asset('img/logo.svg') }}" width="265">
+                <img src="{{ asset('img/logo.png') }}" width="265">
             </a>
 
             <ul class="navbar-nav ms-auto">
