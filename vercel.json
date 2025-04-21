@@ -1,6 +1,5 @@
 {
     "version": 2,
-    "framework": "laravel",
     "functions": {
       "api/index.php": {
         "runtime": "vercel-php@0.6.0"
@@ -35,4 +34,4 @@
       "SSR_TEMP_PATH": "/tmp/ssr",
       "NODE_PATH": "node"
     }
-  }
+}
