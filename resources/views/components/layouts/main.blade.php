@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <title>Track Item | PoŝtaLoĝistiko</title>
+    <title>Track India</title>
 
     {{-- Meta Tags --}}
-    <meta name="title" content="Track Item | TrackIndia">
+    <meta name="title" content="Track Item | Track India">
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="robots" content="index, follow">
